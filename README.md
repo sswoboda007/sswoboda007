@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sswoboda007
-- 👀 I’m interested in Cyber Security; Monty Python; Java
-- 🌱 I’m currently learning at Devry for a Certificate in Cyber Security
+- 👀 I’m interested in DevOps; Python; small apps.
+- 🌱 I’m currently messing around, learning to code python with AI.
 - 💞️ I’m looking to collaborate on how to get an entry level position
 - 📫 How to reach me: Sean.L.Swoboda@gmail.com
 
